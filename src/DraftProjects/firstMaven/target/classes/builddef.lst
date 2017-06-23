@@ -1,0 +1,8 @@
+-Xajruntimetarget:1.5
+-1.4
+-classpath
+C:\Users\Дмитрий\.m2\repository\org\aspectj\aspectjrt\1.8.9\aspectjrt-1.8.9.jar;C:\Users\Дмитрий\.m2\repository\org\apache\commons\commons-lang3\3.6\commons-lang3-3.6.jar;E:\Inga\smr-develop-studio\src\src\modules\firstMaven\target\classes
+-d
+E:\Inga\smr-develop-studio\src\src\modules\firstMaven\target\classes
+E:\Inga\smr-develop-studio\src\src\modules\firstMaven\src\main\java\com\example\MannersAspect.aj
+E:\Inga\smr-develop-studio\src\src\modules\firstMaven\src\main\java\com\example\HelloDarth.java
